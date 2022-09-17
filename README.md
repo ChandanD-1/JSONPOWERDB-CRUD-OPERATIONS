@@ -9,3 +9,13 @@ Schema-free, Simple to use, Nimble and In-Memory database.
 It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
+
+Below is sample code for adding rows in Jaonpowerdp using talend api
+"token":"90937803|-31949299606997019|90941832",
+"cmd":"PUT",
+"dbName":"Student",
+"rel":"Student rel",
+"jasonstr": {
+  "name":"chandan desai",
+  "email":"desaichandan@gmail.com",
+  "mobile number":"888888888"
